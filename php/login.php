@@ -18,6 +18,6 @@ if($res){
 			header("Location: /pages/main.html");
 		}
 	}
-	
+
 }
 ?>
